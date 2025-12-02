@@ -6,8 +6,6 @@
 
 - [ ] **1. Análisis del sector tecnológico**
 
-# 1. Análisis del sector tecnológico
-
 Para empezar con el Proyecto Intermodular, he estado investigando cómo está el mercado laboral y tecnológico en mi entorno cercano, concretamente en **Sevilla y Andalucía**.
 
 La conclusión principal es que el sector está en un momento muy bueno. No es solo una impresión mía; los datos de 2024 y 2025 muestran que Sevilla se está consolidando como un punto clave para la tecnología en el sur de Europa.
@@ -36,8 +34,6 @@ En resumen, hay hueco de sobra para proponer proyectos de mejora de infraestruct
                 
 - [ ] **2. Selección de la empresa o contexto de trabajo**
 
-# 2. Selección de la empresa o contexto de trabajo
-
 Para este proyecto he seleccionado una empresa real de mi entorno, donde trabaja un familiar directo, lo que me permite conocer de primera mano sus carencias tecnológicas.
 
 * **Nombre de la empresa:** *Carvajal Construcciones y Reformas*.
@@ -55,8 +51,6 @@ Para este proyecto he seleccionado una empresa real de mi entorno, donde trabaja
   * **Web y Correo:** Web básica en WordPress y uso de correos gratuitos no corporativos.
                 
 - [ ] **3. Identificación de necesidades tecnológicas**
-
-# 3. Identificación de necesidades tecnológicas
 
 Al no tener sede física, la necesidad principal es crear una "Sede Digital" segura.
 
@@ -82,8 +76,6 @@ Mi proyecto se titula **"Despliegue de Oficina Virtual Segura y Centralización 
                 
 - [ ] **4. Oportunidades y viabilidad del proyecto**
 
-# 4. Oportunidades y viabilidad del proyecto
-
 Este proyecto es ideal porque resuelve un problema real de las PYMES actuales: la falta de oficina física.
 
 * **Viabilidad Técnica:** Usaremos tecnologías estándar (Windows Server, OpenVPN/WireGuard) que funcionan perfectamente sobre conexiones de fibra domésticas. No hace falta obra civil.
@@ -94,8 +86,6 @@ Este proyecto es ideal porque resuelve un problema real de las PYMES actuales: l
                 
 - [ ] **5. Obligaciones legales y normativas**
 
-# 5. Obligaciones legales y normativas
-
 Al tratar datos de clientes en un domicilio particular, la normativa es estricta:
 
 * **RGPD (Datos Personales):** Debemos garantizar que los datos de la empresa estén cifrados y separados de los datos personales de la familia. El servidor debe tener control de acceso estricto.
@@ -105,8 +95,6 @@ Al tratar datos de clientes en un domicilio particular, la normativa es estricta
 * **LSSI:** Adecuación legal de la página web y correos electrónicos.
                 
 - [ ] **6. Guion inicial del proyecto**
-
-# 6. Guion inicial del proyecto
 
 El plan de trabajo para la "Informatización SOHO (Small Office Home Office)":
 
