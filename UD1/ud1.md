@@ -5,7 +5,8 @@
 ## Índice de apartados
 
 - [ ] **1. Análisis del sector tecnológico**
-      Para empezar con el Proyecto Intermodular, he estado investigando cómo está el mercado laboral y tecnológico en mi entorno cercano, concretamente en Sevilla y Andalucía.
+
+Para empezar con el Proyecto Intermodular, he estado investigando cómo está el mercado laboral y tecnológico en mi entorno cercano, concretamente en Sevilla y Andalucía.
 
 La conclusión principal es que el sector está en un momento muy bueno. No es solo una impresión mía; los datos de 2024 y 2025 muestran que Sevilla se está consolidando como un punto clave para la tecnología en el sur de Europa.
 
