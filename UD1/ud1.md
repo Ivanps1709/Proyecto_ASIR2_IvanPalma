@@ -29,16 +29,7 @@ Mirando ofertas de trabajo y leyendo sobre las necesidades de las empresas local
 
 En resumen, hay hueco de sobra para proponer proyectos de mejora de infraestructura, porque aunque el sector crece, la seguridad y la profesionalización de los sistemas básicos en las empresas medianas todavía tiene mucho margen de mejora.
 
----
 
-### 🔗 Referencias y Bibliografía
-
-Aquí están los enlaces directos a las fuentes consultadas para los datos de este análisis:
-
-* [Sevilla TechPark crece un 13,7% en 2024 y factura ya 5.513 millones de euros (eCitySevilla)](https://ecitysevilla.com/sevilla-techpark-crece-un-137-en-2024-y-factura-ya-5-513-millones-de-euros/)
-* [Andalucía afianza su posición en el ecosistema tech con 714 empresas (Al Andalus Innovation Venture)](https://alandalusinnovation.com/andalucia-afianza-su-posicion-en-el-ecosistema-tech-espanol-con-714-empresas-y-mas-de-747-millones-de-euros-en-facturacion/)
-* [Sección de Actualidad y Noticias corporativas de Sevilla TechPark](https://sevillatechpark.es/actualidad/)
-* [Portal de Empleo: Búsquedas de 'Administrador de Sistemas' en Sevilla (InfoJobs)](https://www.infojobs.net/)
 - [ ] **2. Selección de la empresa o contexto de trabajo**
 - [ ] **3. Identificación de necesidades tecnológicas**
 - [ ] **4. Oportunidades y viabilidad del proyecto**
@@ -52,6 +43,10 @@ Aquí están los enlaces directos a las fuentes consultadas para los datos de es
 
   ## Bibliografía / Webgrafía 
 - Autor1, Título del libro o artículo, Editorial/Año.
-- Sitio web oficial: [Enlace](https://www.ejemplo.com)
+- Sitio web oficial:
+* [Sevilla TechPark crece un 13,7% en 2024 y factura ya 5.513 millones de euros (eCitySevilla)](https://ecitysevilla.com/sevilla-techpark-crece-un-137-en-2024-y-factura-ya-5-513-millones-de-euros/)
+* [Andalucía afianza su posición en el ecosistema tech con 714 empresas (Al Andalus Innovation Venture)](https://alandalusinnovation.com/andalucia-afianza-su-posicion-en-el-ecosistema-tech-espanol-con-714-empresas-y-mas-de-747-millones-de-euros-en-facturacion/)
+* [Sección de Actualidad y Noticias corporativas de Sevilla TechPark](https://sevillatechpark.es/actualidad/)
+* [Portal de Empleo: Búsquedas de 'Administrador de Sistemas' en Sevilla (InfoJobs)](https://www.infojobs.net/)
 - Tutoriales y guías recomendadas: [Enlace](https://www.ejemplo2.com)
 
