@@ -11,7 +11,7 @@
 ![Escalabilidad y Cloud](https://img.shields.io/badge/Infraestructura-Cloud%20%26%20Escalable-purple)
 
 
-## Nombre del alumno:
+## Nombre del alumno: Iván Palma Sierra
 ## Título del proyecto:
 
 ## Índice del proyecto
