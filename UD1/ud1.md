@@ -32,6 +32,23 @@ A pesar del crecimiento de grandes tecnológicas, el tejido empresarial local se
 
 **Conclusión:**
 Existe una alta demanda de servicios de **informatización integral** para empresas que carecen de sede física y requieren acceso ubicuo y seguro a sus datos.
+
+# 2. Selección de la empresa y contexto
+
+**Ficha Técnica:**
+*   **Razón Social:** Carvajal Construcciones y Reformas.
+*   **Ubicación:** Coria del Río, Sevilla.
+*   **Sector:** Construcción, reformas integrales y obra civil.
+*   **Modelo Operativo:** Oficina Virtual (Sin sede física administrativa).
+
+**Infraestructura Actual (Estado AS-IS):**
+La empresa opera bajo un modelo precario y no escalable:
+*   **Hardware:** Uso de equipos personales (BYOD) sin gestión centralizada.
+*   **Red:** Conexión mediante router doméstico ISP, compartiendo segmento de red con dispositivos del hogar (IoT, SmartTVs).
+*   **Software/Web:** Página web básica en WordPress sin mantenimiento; uso de correo gratuito no corporativo.
+*   **Seguridad:** Inexistente. Ausencia de copias de seguridad (Backups) y control de acceso.
+
+![Insertar aquí: Diagrama de Red Actual (Router doméstico conectado a todo sin orden)]
                 
 
 ## Enlaces a recursos de la unidad
