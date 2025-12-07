@@ -30,6 +30,8 @@ La empresa seleccionada es **INFOSUR SOLUCIONES INFORMÁTICAS PARA LA GESTIÓN E
 
 A pesar de su actividad tecnológica, la auditoría interna para este proyecto revela una infraestructura propia deficiente ("En casa del herrero, cuchillo de palo"). La empresa carece de un dominio interno (Active Directory) para gestionar a sus propios empleados, utiliza métodos inseguros para compartir credenciales de administración y no dispone de segmentación de red entre los entornos de pruebas y los corporativos. Esta situación simulada plantea riesgos de seguridad inaceptables y justifica la reingeniería completa de sus sistemas internos.
 
+![imagen del punto 2](/UD1/img/punto2.png)
+
 # 3. Identificación de necesidades tecnológicas
 
 Se ha detectado una vulnerabilidad crítica en la gestión de identidades y accesos, ya que la falta de un servidor centralizado impide controlar qué empleado accede a qué recursos, poniendo en riesgo los datos de los clientes. Adicionalmente, la red plana actual mezcla tráfico de desarrollo potencialmente peligroso con datos administrativos, y la carencia de una VPN corporativa obliga a exponer servicios internos a internet de forma insegura para el teletrabajo.
