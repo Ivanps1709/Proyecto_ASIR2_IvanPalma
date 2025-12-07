@@ -62,8 +62,7 @@ El cronograma se divide en cuatro fases: la Fase I (Redes y Seguridad) establece
 
 La Fase III (Servicios) migrará la web e intranet a servidores LAMP propios y base de datos centralizada; finalmente, la Fase IV (Mantenimiento) activará los backups automatizados y la documentación final, asegurando una transición ordenada sin afectar la operatividad diaria.
 
-[Image of diagrama de Gantt fases proyecto]
-
+![imagen del punto 6](/UD1/img/punto6.png)
 ## Enlaces a recursos de la unidad
 
 - [Documentos de la unidad](./documentos/)
