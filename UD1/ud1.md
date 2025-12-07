@@ -22,7 +22,7 @@ El sector TIC en Andalucía actúa como motor económico regional, destacando Se
 
 Ante este escenario, surge la necesidad crítica de profesionalizar la gestión interna de estas PYMES tecnológicas. Se requiere la intervención de perfiles técnicos superiores (ASIR) para implementar arquitecturas de "Confianza Cero" (Zero Trust), centralizar la identidad corporativa y segmentar redes, transformando infraestructuras precarias en entornos empresariales seguros y auditables que cumplan con los estándares del mercado.
 
-![imagen del punto 1]()
+![imagen del punto 1](UD1/img/punto1.png)
 
 # 2. Selección de la empresa o contexto de trabajo
 
