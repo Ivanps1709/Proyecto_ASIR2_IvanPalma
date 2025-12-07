@@ -54,6 +54,8 @@ El proyecto garantiza el cumplimiento del RGPD y la LOPDGDD mediante medidas de 
 
 En materia laboral, se realizará una auditoría de licencias de software para asegurar la Propiedad Intelectual y se aplicará la normativa de Prevención de Riesgos Laborales (PRL) específica para teletrabajo y uso de Pantallas de Visualización de Datos (RD 488/1997), asegurando la ergonomía de los puestos técnicos remotos.
 
+![imagen del punto 5](/UD1/img/punto5.png)
+
 # 6. Guion inicial del proyecto
 
 El cronograma se divide en cuatro fases: la Fase I (Redes y Seguridad) establecerá el perímetro seguro con Firewall, VLANs y VPN; la Fase II (Sistemas) desplegará el Controlador de Dominio, usuarios y políticas GPO.
