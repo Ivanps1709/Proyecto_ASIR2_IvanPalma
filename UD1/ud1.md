@@ -18,37 +18,19 @@
 
 # 1. Análisis del sector tecnológico
 
-**Contexto Geográfico y Económico:**
-El proyecto se desarrolla en el área metropolitana de Sevilla, un entorno tecnológico en expansión impulsado por el *Sevilla TechPark*, que registró un crecimiento del **13,7%** en actividad económica en el último ejercicio.
+El sector TIC en Andalucía actúa como motor económico regional, destacando Sevilla y el PCT Cartuja con un crecimiento de facturación cercano al 14% anual. Este ecosistema fomenta la aparición de micro-consultoras tecnológicas que digitalizan a terceros, pero que paradójicamente suelen descuidar su propia infraestructura interna ("Shadow IT"), operando con sistemas domésticos y sin políticas de seguridad corporativa, lo que limita su escalabilidad y seguridad.
 
-**Tendencias y Nicho de Mercado:**
-A pesar del crecimiento de grandes tecnológicas, el tejido empresarial local se sustenta en PYMES y micropymes que presentan una brecha digital crítica. Se detectan tres necesidades fundamentales para el perfil ASIR:
+Ante este escenario, surge la necesidad crítica de profesionalizar la gestión interna de estas PYMES tecnológicas. Se requiere la intervención de perfiles técnicos superiores (ASIR) para implementar arquitecturas de "Confianza Cero" (Zero Trust), centralizar la identidad corporativa y segmentar redes, transformando infraestructuras precarias en entornos empresariales seguros y auditables que cumplan con los estándares del mercado.
 
-*   **Digitalización de entornos SOHO (Small Office/Home Office):** Transición de gestión doméstica a infraestructura profesional.
-*   **Ciberseguridad en teletrabajo:** Aseguramiento de conexiones remotas en sectores tradicionales (construcción).
-*   **Gestión Híbrida:** Integración de servidores locales (On-Premise) con servicios Cloud.
+# 2. Selección de la empresa o contexto de trabajo
 
-![Insertar aquí: Gráfico de barras comparando empresas digitalizadas vs analógicas en Andalucía]
+La empresa seleccionada es **INFOSUR SOLUCIONES INFORMÁTICAS PARA LA GESTIÓN EMPRESARIAL S.L.**, ubicada en el Polígono Industrial Calonge de Sevilla (Calle D, Nave 2). Es una consultora técnica consolidada que ofrece servicios de mantenimiento integral, desarrollo web y soporte a empresas. Su estructura organizativa es ágil y distribuida: cuenta con una Dirección Técnica que supervisa proyectos, un equipo de desarrollo y sistemas que opera en modelo híbrido (presencial/remoto) y un área administrativa, adaptándose dinámicamente a las necesidades de sus clientes locales.
 
-**Conclusión:**
-Existe una alta demanda de servicios de **informatización integral** para empresas que carecen de sede física y requieren acceso ubicuo y seguro a sus datos.
+A pesar de su actividad tecnológica, la auditoría interna para este proyecto revela una infraestructura propia deficiente ("En casa del herrero, cuchillo de palo"). La empresa carece de un dominio interno (Active Directory) para gestionar a sus propios empleados, utiliza métodos inseguros para compartir credenciales de administración y no dispone de segmentación de red entre los entornos de pruebas y los corporativos. Esta situación simulada plantea riesgos de seguridad inaceptables y justifica la reingeniería completa de sus sistemas internos.
 
-# 2. Selección de la empresa y contexto
 
-**Ficha Técnica:**
-*   **Razón Social:** Carvajal Construcciones y Reformas.
-*   **Ubicación:** Coria del Río, Sevilla.
-*   **Sector:** Construcción, reformas integrales y obra civil.
-*   **Modelo Operativo:** Oficina Virtual (Sin sede física administrativa).
 
-**Infraestructura Actual (Estado AS-IS):**
-La empresa opera bajo un modelo precario y no escalable:
-*   **Hardware:** Uso de equipos personales (BYOD) sin gestión centralizada.
-*   **Red:** Conexión mediante router doméstico ISP, compartiendo segmento de red con dispositivos del hogar (IoT, SmartTVs).
-*   **Software/Web:** Página web básica en WordPress sin mantenimiento; uso de correo gratuito no corporativo.
-*   **Seguridad:** Inexistente. Ausencia de copias de seguridad (Backups) y control de acceso.
-
-![Insertar aquí: Diagrama de Red Actual (Router doméstico conectado a todo sin orden)]
+                
                 
 
 ## Enlaces a recursos de la unidad
