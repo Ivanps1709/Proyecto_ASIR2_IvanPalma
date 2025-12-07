@@ -62,20 +62,18 @@ La Fase III (Servicios) migrará la web e intranet a servidores LAMP propios y b
 - [Diagramas e imágenes](./img/)
 
   ## Bibliografía / Webgrafía 
-- Autor1, Título del libro o artículo, Editorial/Año.
 - Sitio web oficial:
 
-* **Sevilla TechPark (PCT Cartuja):** *Portal oficial del parque tecnológico y empresarial*.
+  - * **Sevilla TechPark (PCT Cartuja):** *Portal oficial del parque tecnológico y empresarial*.
     [https://www.pctcartuja.es/](https://www.pctcartuja.es/)
 
-* **INCIBE (Instituto Nacional de Ciberseguridad):** *Portal para empresas y guías de seguridad*.
+  - * **INCIBE (Instituto Nacional de Ciberseguridad):** *Portal para empresas y guías de seguridad*.
     [https://www.incibe.es/empresas](https://www.incibe.es/empresas)
 
-* **BOE (Boletín Oficial del Estado):** *Legislación consolidada*.
+  - * **BOE (Boletín Oficial del Estado):** *Legislación consolidada*.
     [https://www.boe.es/](https://www.boe.es/)
 
-* **AEPD (Agencia Española de Protección de Datos):** *Guías y herramientas de cumplimiento*.
+  - * **AEPD (Agencia Española de Protección de Datos):** *Guías y herramientas de cumplimiento*.
     [https://www.aepd.es/](https://www.aepd.es/)
-                
-- Tutoriales y guías recomendadas: [Enlace](https://www.ejemplo2.com)
+      
 
