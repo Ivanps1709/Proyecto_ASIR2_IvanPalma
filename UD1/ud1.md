@@ -38,6 +38,8 @@ Se ha detectado una vulnerabilidad crítica en la gestión de identidades y acce
 
 Para solventar estas carencias, se propone el proyecto "Despliegue de Infraestructura Segura para Consultora TIC". La solución incluye la implementación de Windows Server como Controlador de Dominio (AD DS) para centralizar usuarios y equipos, el despliegue de una red segmentada con VLANs y Firewall perimetral, y la configuración de una VPN Site-to-Site. Se complementará con la migración de servicios web a una infraestructura LAMP propia y un sistema de backups automatizado.
 
+![imagen del punto 3](/UD1/img/punto3.png)
+
 # 4. Oportunidades y viabilidad del proyecto
 
 La viabilidad técnica está asegurada al utilizar estándares de industria ampliamente soportados (Windows Server, Linux, OpenVPN) y hardware de servidor accesible o virtualización, aprovechando el conocimiento previo del personal técnico de la empresa. El proyecto permite transformar una debilidad interna en una fortaleza comercial, utilizando la nueva infraestructura segura como escaparate de buenas prácticas ante los clientes.
