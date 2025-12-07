@@ -65,7 +65,7 @@ La Fase III (Servicios) migrará la web e intranet a servidores LAMP propios y b
 - Sitio web oficial:
 
   - * **Sevilla TechPark (PCT Cartuja):** *Portal oficial del parque tecnológico y empresarial*.
-    [https://www.pctcartuja.es/](https://www.pctcartuja.es/)
+    [https://sevillatechpark.es/](https://sevillatechpark.es/)
 
   - * **INCIBE (Instituto Nacional de Ciberseguridad):** *Portal para empresas y guías de seguridad*.
     [https://www.incibe.es/empresas](https://www.incibe.es/empresas)
