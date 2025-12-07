@@ -46,7 +46,7 @@ La viabilidad técnica está asegurada al utilizar estándares de industria ampl
 
 Desde la perspectiva económica y académica, la inversión es mínima en comparación con el riesgo mitigado de sanciones por RGPD o pérdida de reputación. Académicamente, el proyecto es idóneo para ASIR al integrar transversalmente la administración de sistemas operativos, la seguridad de redes, la gestión de bases de datos y la implantación de aplicaciones web en un escenario realista y profesional.
 
-[Image of gráfico ROI retorno inversión seguridad]
+![imagen del punto 4](/UD1/img/punto4.png)
 
 # 5. Obligaciones legales y normativas
 
